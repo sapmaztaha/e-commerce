@@ -31,7 +31,7 @@ if (isset($_POST['admingiris'])) {
         header('Location:../production/login.php?durum=no');
       }
 
-
+// test
 }
 
 
